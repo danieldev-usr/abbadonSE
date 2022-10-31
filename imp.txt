@@ -1,0 +1,21 @@
+Muita das vezes pensamos que o hacking é como nos filmes, que mostra que é só digitar coisas aleatoriamente, depois aparece uma sequência de números binários em sequências e a frase clichê "sistema invadido". Mas na realidade nunca foi assim.
+
+As maiores falhas em sistemas grandes somos nós, os humanos. Uma falha fácil para ser explorada. O hacking é dividido em 3 partes: Programação; Redes; Engenharia social.
+
+Por exemplo: você quer derrubar a Internet do vizinho, mas para isso precisa do IP dele. Você não pode chegar e falar "vizinho me passa o seu IP?", você tem que pegar discretamente, e para isso você vai ter que usar uma ferramenta com base na Engenharia social chamada phishing. Tem muitos softwares relacionados ao phishing, sites falsos, aplicações falsas, links etc. 
+
+O phishing em si é uma Engenharia social, mas precisa fazer o vizinho cair nele. Para isso você tem muitos métodos 
+
+Falsa empresa;
+Histórias dramáticas;
+Passar por algum parente;
+
+Um exemplo disso é: 
+"Para conseguir acesso a 300 seguidores no insta acesse esse site: www.com.sitefalso.br" (claro que mais bem feito)
+
+Sendo assim o vizinho clica e você pode pegar o IP.
+
+Mas não acaba por aiiii....
+Você pode usar esse método para invadir contas, desde bancarias a de redes sociais, invadir máquinas, sistemas, sites etc. 
+
+Também esse método pode ser usado fora da web, quando você precisa invadir manualmente. Esse método necessita de muito treinamento com as dicas que coloquei logo acima pois requer profissionalismo.

@@ -1,0 +1,28 @@
+Como não achei muito conteudo sobre, vou colocar as ferramentas.
+
+Modulo FTDI
+O Módulo FTDI é um módulo conversor exclusivo que possui a capacidade de converter sinais USB em sinais Serial de nível TTL e RS232 para facilitar a comunicação entre computadores e plataformas microcontroladoras.
+
+Osciloscópio
+O osciloscópio é um instrumento de medida de sinais elétricos/eletrônicos que apresenta gráficos a duas dimensões de um ou mais sinais elétricos (de acordo com a quantidade de canais de entrada).
+
+NodeMCU
+NodeMCU é uma plataforma open source da Internet das Coisas. Ela usa a linguagem de script Lua. Baseado no projeto eLua, foi construído sobre o SDK ESP8266 0.9.5. Existem muitos projetos de código aberto para o seu uso como a lua-cjson e spiffs.
+
+Modulo ESP32
+O módulo ESP32 é um módulo de alta performance para aplicações envolvendo wifi, contando com um baixíssimo consumo de energia. É uma evolução do já conhecido ESP8266, com maior poder de processamento e bluetooth BLE 4.2 embutidos.
+
+Digispark
+A Placa de Desenvolvimento ATTINY85 Digispark é uma placa com o microcontrolador ATMEL AVR ATTINY85. Pode ser encaixada diretamente na USB do computador e programada utilizando a IDE do Arduino, ótima opção para projetos wearables ou se você tem pouco espaço disponível.
+
+Proxmark
+O Proxmark é um canivete suíço de RFID, permitindo interações de alto e baixo nível com a grande maioria das etiquetas e sistemas de RFID em todo o mundo.
+
+Raspberry Pi
+A Raspberry Pi Zero W Anatel é uma placa de baixo custo com um tamanho reduzido (apenas 6,5 x 3cm), permitindo que você crie projetos compactos sem perder a flexibilidade que as placas da linha Raspberry proporcionam.
+
+Pickit Tree
+O Pickit 3 é um gravador de baixo custo, mais rápido se comparado com versões anteriores e que realiza a gravação dos microcontroladores PIC por meio de conexão ICSP (In Circuit Serial Programming). 
+Suporta os microcontroladores PIC das linhas PIC16F, PIC18F, dsPIC33f, PIC24 e PIC 32. Ele também tem a função de debug (depurador), onde você pode conectar o Pickit 3 diretamente no circuito e verificar em tempo real as condições e configurações do equipamento.
+
+Tem mais, mas se quiser conteúdo avançado vai fazer um curso especificamente disso!!!
